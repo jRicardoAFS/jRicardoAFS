@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/joaoricardo____)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://[instagram.com/joaoricardo____](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )
 
 ![João Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=jRicardoAFS&show_icons=true&theme=radical)
