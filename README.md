@@ -4,9 +4,7 @@
 )](https://)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/joaoricardo____)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://linehost.cloud/linux/como-remover-arquivos-e-diretorios-usando-a-linha-de-comando-do-linux/#:~:text=Como%20remover%20diret%C3%B3rios%20(pastas),-No%20Linux%2C%20voc%C3%AA&text=Para%20remover%20v%C3%A1rios%20diret%C3%B3rios%20de,dos%20diret%C3%B3rios%20separados%20por%20espa%C3%A7o.&text=Da%20mesma%20forma%20que%20com,para%20corresponder%20a%20v%C3%A1rios%20diret%C3%B3ri
-)
+[![linkedin](linkedin.com/in/joao-ricardo-da-silva-sousa-7693042a3)
 
 ![João Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=jRicardoAFS&show_icons=true&theme=radical)
 
